@@ -1,2 +1,2 @@
 # BelajarPython-1
-Dasar - dasar pemograman python
+mencoba mengunakan data dari beberapa sumber
